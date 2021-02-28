@@ -6,7 +6,7 @@
 <br/>
 📫- <b>How to reach me:</b> <br/>
 
-[![Linkedin Badge](https://img.shields.io/badge/%20-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/victorvdo/,"_blank")
+[![Linkedin Badge](https://img.shields.io/badge/%20-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/victorvdo/)
 [![Twitch_Badge](https://img.shields.io/badge/-Twitch-ddd?style=for-the-badge&logo=twitch)](https://www.twitch.tv/radgiver)
 [![YouTube_Badge](https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/c/VictorOliveirap)
 [![Facebook Badge](https://img.shields.io/badge/%20-Facebook-9cf?style=for-the-badge&logo=facebook)](https://web.facebook.com/victor.vdo/)
