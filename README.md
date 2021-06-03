@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-💼- I’m currently working at: <!-- [![Luby Software do seu Jeito](https://avatars.githubusercontent.com/u/67340356?s=35&v=4)--> [Luby](https://www.luby.com.br/)<br/>
+💼- I’m currently working at: <!-- [![IBM](https://avatars.githubusercontent.com/u/67340356?s=35&v=4)--> [IBM](https://www.ibm.com/)<br/>
 <br/>
 📫- <b>How to reach me:</b> <br/>
 
