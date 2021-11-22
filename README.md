@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-💼- I’m currently working at: <!-- [![IBM](https://avatars.githubusercontent.com/u/67340356?s=35&v=4)--> [IBM](https://www.ibm.com/)<br/>
+💼- I’m currently working at: <!-- [![act](https://avatars.githubusercontent.com/u/67340356?s=35&v=4)--> [act](https://actdigital.com/)<br/>
 <br/>
 📫- <b>How to reach me:</b> <br/>
 
