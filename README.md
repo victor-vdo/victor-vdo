@@ -5,9 +5,9 @@
 💼- I’m currently working at: <!-- [![act](https://avatars.githubusercontent.com/u/67340356?s=35&v=4)--> [act](https://actdigital.com/)<br/>
 <br/>
 📫- <b>How to reach me:</b> <br/>
-
-
 [![Linkedin Badge](https://img.shields.io/badge/%20-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/victorvdo/)
+
+You can see my DotNet Roadmap with the github's repositories [HERE](https://github.com/victor-vdo/roadmap)  <br/>
 
 <!--- 🌱 I’m currently learning ...
  👯 I’m looking to collaborate on ...
