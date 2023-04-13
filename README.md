@@ -25,3 +25,4 @@ You can see my DotNet Roadmap with the github's repositories [HERE](https://gith
  <!--[![stats](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=victorvdo)]()-->
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victor-vdo&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
