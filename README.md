@@ -16,12 +16,13 @@ You can see my DotNet Roadmap with the github's repositories [HERE](https://gith
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...-->
 
+#### STATS
 [![Victor-Vdo's github stats](https://github-readme-stats.vercel.app/api?username=victor-vdo&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 #### STREAKS
 [![Victor's github streak](https://github-readme-streak-stats.herokuapp.com/?user=victor-vdo&theme=blue-green)](https://github.com/victor-vdo#streaks)
 
-
+#### LANGUAGES
  <!--[![stats](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=victorvdo)]()-->
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victor-vdo&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
