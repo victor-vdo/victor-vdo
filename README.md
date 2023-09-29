@@ -86,23 +86,13 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ...-->
 
+| LANGUAGES  | STATS |
+| ------------- | ------------- |
+|  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victor-vdo&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) | [![Victor-Vdo's github stats](https://github-readme-stats.vercel.app/api?username=victor-vdo&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) |
 
-
-#### LANGUAGES
- <!--[![stats](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=victorvdo)]()-->
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victor-vdo&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
- 
-#### 🏆 Trophy Stats 
-![Profile](https://github-profile-trophy.vercel.app/?username=victorvdo&theme=dracula)
-
-#### STATS
-[![Victor-Vdo's github stats](https://github-readme-stats.vercel.app/api?username=victor-vdo&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-#### STREAKS
-[![Victor's github streak](https://github-readme-streak-stats.herokuapp.com/?user=victor-vdo&theme=blue-green)](https://github.com/victor-vdo#streaks)
-
-[![Profile-Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=victorvdo&theme=dracula)]
-
+| STREAKS  | CONTRIBUTIONS |
+| ------------- | ------------- |
+| [![Victor's github streak](https://github-readme-streak-stats.herokuapp.com/?user=victor-vdo&theme=blue-green)](https://github.com/victor-vdo#streaks) | ![Profile-Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=victorvdo&theme=dracula) |
 
 
 
