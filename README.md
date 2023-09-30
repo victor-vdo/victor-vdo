@@ -89,9 +89,7 @@
 | LANGUAGES  | STATS |
 | ------------- | ------------- |
 |  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victor-vdo&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) | [![Victor-Vdo's github stats](https://github-readme-stats.vercel.app/api?username=victor-vdo&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) |
-
-| STREAKS  | CONTRIBUTIONS |
-| ------------- | ------------- |
+| STREAKS | CONTRIBUTIONS |
 | [![Victor's github streak](https://github-readme-streak-stats.herokuapp.com/?user=victor-vdo&theme=blue-green)](https://github.com/victor-vdo#streaks) | ![Profile-Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=victorvdo&theme=dracula) |
 
 
