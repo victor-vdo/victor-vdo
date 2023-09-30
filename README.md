@@ -15,9 +15,9 @@
 **Frameworks**
 <br/>
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![WebForms](https://i.imgur.com/1qh3ITr.png)
+![MVC](https://i.imgur.com/rcpi0be.png)
 **`ASP.NET Web API`**
-**`ASP.NET MVC`**
-**`ASP.NET Webforms`**
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
