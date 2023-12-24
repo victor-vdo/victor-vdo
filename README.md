@@ -1,6 +1,17 @@
 <!--- <text xmlns="http://www.w3.org/2000/svg" transform="scale(.1)" x="648.75" y="175" textLength="657.5" fill="#fff" font-weight="bold">SWAGGER</text><br/>...-->
 
 
+## Projects
+> Library
+
+An old console project was created with the goal of not using any software standards, practices or architectures. The goal is to rewrite this project using differents architectures, design patterns and best practices.
+
+[Library Console Project](https://github.com/victor-vdo/Library) - Project with bad practices that will be rewrite.
+
+- [SOLID]() - The library management system has been restructured with SOLID principles, simplifying the code and making it more flexible.
+
+## Technology Stack
+
 **Languages**
 <br/>
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
