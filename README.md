@@ -90,9 +90,13 @@ An old console project was created with the goal of not using any software stand
 ### Architectures
 - [MVC]() - Separation of responsibilities between data (Model), user interface (View), and control logic (Controller) for application development.
 - [MVVM]() - A variation of MVC where the ViewModel acts as an intermediary between the View and the Model, facilitating separation of concerns and enabling better state management
-- [Onion Architecture]() - Layered structure emphasizing the separation of core domain concepts from the peripheral implementation details, protecting the core from external implementation concerns.
+- [Onion]() - Layered structure emphasizing the separation of core domain concepts from the peripheral implementation details, protecting the core from external implementation concerns.
 - [Microservices]() - Software architecture approach where an application is divided into independent components, each performing specific processes and communicating through APIs.
 - [Monolithic]() - An architecture type where all parts of the application are developed, implemented, and deployed as a single unit, often without distinct modular divisions.
+- [Serverless]() - An approach where the developer doesn't need to manage server infrastructure. Code runs in response to events and is managed by a cloud services provider.
+- [Event-Driven]() - Based on producing, detecting, consuming, and reacting to events that occur within a system. This enables asynchronous communication between system components.
+- [Hexagonal]() - A structure that emphasizes modularity and separation of concerns through division into concentric layers, facilitating integration with external components.
+- [Space-Based]() - Based on the idea of sharing events and state across a distributed infrastructure, enabling scalability and flexibility in distributed systems.
 
 
 
