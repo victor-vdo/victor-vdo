@@ -8,7 +8,16 @@ An old console project was created with the goal of not using any software stand
 
 [Library Console Project](https://github.com/victor-vdo/Library) - Project with bad practices that will be rewrite.
 
+### Principles
 - [SOLID]() - The library management system has been restructured with SOLID principles, simplifying the code and making it more flexible.
+
+### Architectures
+- [MVC]() - Separation of responsibilities between data (Model), user interface (View), and control logic (Controller) for application development.
+- [MVVM]() - A variation of MVC where the ViewModel acts as an intermediary between the View and the Model, facilitating separation of concerns and enabling better state management
+- [Onion Architecture]() - Layered structure emphasizing the separation of core domain concepts from the peripheral implementation details, protecting the core from external implementation concerns.
+- [Microservices]() - Software architecture approach where an application is divided into independent components, each performing specific processes and communicating through APIs.
+- [Monolithic]() - An architecture type where all parts of the application are developed, implemented, and deployed as a single unit, often without distinct modular divisions.
+
 
 ## Technology Stack
 
