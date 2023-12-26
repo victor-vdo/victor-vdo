@@ -76,12 +76,7 @@
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ...-->
 
-## Main Projects
-
-<img src="https://github.com/victor-vdo/victor-vdo/assets/37857818/694abf85-91d2-4a9e-b8f1-2e913c2aa67b" width="50" height="50" /> 
-<img src="https://github.com/victor-vdo/victor-vdo/assets/37857818/612ff56b-99a7-4093-aba1-8590293048be" width="30" height="30" />
- Under Construction
-<img src="https://github.com/victor-vdo/victor-vdo/assets/37857818/612ff56b-99a7-4093-aba1-8590293048be" width="30" height="30" />
+## Main Projects - <img src="https://github.com/victor-vdo/victor-vdo/assets/37857818/694abf85-91d2-4a9e-b8f1-2e913c2aa67b" width="40" height="40" /> <img src="https://github.com/victor-vdo/victor-vdo/assets/37857818/612ff56b-99a7-4093-aba1-8590293048be" width="20" height="20" />  <i> Under Construction</i> <img src="https://github.com/victor-vdo/victor-vdo/assets/37857818/612ff56b-99a7-4093-aba1-8590293048be" width="20" height="20" />
 
 > Library
 
