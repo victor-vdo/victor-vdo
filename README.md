@@ -80,7 +80,7 @@
 
 > Library
 
-An old console project was created with the goal of not using any software standards, practices or architectures. The goal is to rewrite this project using differents architectures, design patterns and best practices.
+<p align="justify">An old console project was created with the goal of not using any software standards, practices or architectures. The goal is to rewrite this project using differents architectures, design patterns and best practices.</p>
 
 [Library Console Project](https://github.com/victor-vdo/Library) - Project with bad practices that will be rewrite.
 
