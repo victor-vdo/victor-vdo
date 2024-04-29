@@ -87,7 +87,7 @@
 ### Principles
 - [SOLID](https://github.com/victor-vdo/LibrarySolid) - The library management system has been restructured with SOLID principles, simplifying the code and making it more flexible.
 - [DRY (Don't Repeat Yourself)](https://github.com/victor-vdo/Library.Dry) - Emphasizes avoiding code duplication in the system, promoting reusability and modularity.
-- [KISS (Keep It Simple, Stupid)]() - Advises keeping systems as simple as possible, avoiding unnecessary complexity that might hinder code understanding and maintenance.
+- [KISS (Keep It Simple, Stupid)](https://github.com/victor-vdo/Library.KISS) - Advises keeping systems as simple as possible, avoiding unnecessary complexity that might hinder code understanding and maintenance.
 - [YAGNI (You Ain't Gonna Need It)]() - Suggests not adding functionalities to software based on future assumptions, but implementing only what is necessary at the moment.
 - [Law of Demeter (LoD) / Principle of Least Knowledge]() - Proposes that each unit should have limited knowledge about other units, reducing coupling and increasing cohesion.
 - [Composition Over Inheritance]() - Emphasizes preferring object composition over inheritance to maintain more flexible and less coupled systems.
