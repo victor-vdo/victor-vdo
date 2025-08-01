@@ -93,16 +93,32 @@
 - [Composition Over Inheritance]() - Emphasizes preferring object composition over inheritance to maintain more flexible and less coupled systems.
 
 ### Architectures
+#### Layered / Component-Based Architectures
 - [MVC]() - Separation of responsibilities between data (Model), user interface (View), and control logic (Controller) for application development.
 - [MVVM]() - A variation of MVC where the ViewModel acts as an intermediary between the View and the Model, facilitating separation of concerns and enabling better state management
 - [Onion]() - Layered structure emphasizing the separation of core domain concepts from the peripheral implementation details, protecting the core from external implementation concerns.
+- [Hexagonal]() - A structure that emphasizes modularity and separation of concerns through division into concentric layers, facilitating integration with external components.
+- [Layered (N-Layer)]() - Focuses on isolating the business logic from external systems. Uses ports (interfaces) and adapters to handle integration.
+#### Service-Oriented Architectures
+
 - [Microservices]() - Software architecture approach where an application is divided into independent components, each performing specific processes and communicating through APIs.
 - [Monolithic]() - An architecture type where all parts of the application are developed, implemented, and deployed as a single unit, often without distinct modular divisions.
-- [Serverless]() - An approach where the developer doesn't need to manage server infrastructure. Code runs in response to events and is managed by a cloud services provider.
-- [Event-Driven]() - Based on producing, detecting, consuming, and reacting to events that occur within a system. This enables asynchronous communication between system components.
-- [Hexagonal]() - A structure that emphasizes modularity and separation of concerns through division into concentric layers, facilitating integration with external components.
-- [Space-Based]() - Based on the idea of sharing events and state across a distributed infrastructure, enabling scalability and flexibility in distributed systems.
+- [SOA (Service-Oriented Architecture)]() - Predecessor to microservices. Emphasizes reusable services, often using a central bus (ESB) for communication.
 
+#### Cloud-Native Architectures  
+- [Serverless]() - An approach where the developer doesn't need to manage server infrastructure. Code runs in response to events and is managed by a cloud services provider.
+- [Function as a Service (FaaS)]() - Subset of serverless. Small functions triggered by events (e.g., AWS Lambda), focused on doing one task well.
+- [Container-based (with Kubernetes)]() - Applications packaged into containers (e.g., Docker) and orchestrated with tools like Kubernetes. Flexible and portable.
+
+#### Event-Driven Architectures
+- [Event-Driven]() - Based on producing, detecting, consuming, and reacting to events that occur within a system. This enables asynchronous communication between system components.
+- [Event Sourcing]() - The application's state is determined by a sequence of stored events. Often used with CQRS in complex systems.
+- [CQRS]() - Separates reading and writing into different models and flows, often combined with Event Sourcing.
+
+#### Distributed / Scalable Architectures
+- [Space-Based]() - Based on the idea of sharing events and state across a distributed infrastructure, enabling scalability and flexibility in distributed systems.
+- [Peer-to-Peer (P2P)]() - All nodes have equal roles, no central server. Common in blockchain, torrent networks, etc.
+- [Service Mesh]() - Infrastructure layer (e.g., Istio) for managing communication between services in a distributed architecture.
 
 
 
